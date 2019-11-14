@@ -1,0 +1,16 @@
+E:\VSProject\demo_test\WPFUserControl\bin\Debug\WPFUserControl.exe.config
+E:\VSProject\demo_test\WPFUserControl\bin\Debug\WPFUserControl.exe
+E:\VSProject\demo_test\WPFUserControl\bin\Debug\WPFUserControl.pdb
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.csprojResolveAssemblyReference.cache
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\MainWindow.g.cs
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\App.g.cs
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl_MarkupCompile.cache
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl_MarkupCompile.lref
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\MainWindow.baml
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.g.resources
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.Properties.Resources.resources
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.csproj.GenerateResource.Cache
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.exe
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.pdb
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.Form1.resources
+E:\VSProject\demo_test\WPFUserControl\obj\Debug\WPFUserControl.Form2.resources
